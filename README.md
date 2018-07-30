@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Yimmmmmmy Github Pages
 
 You can use the [editor on GitHub](https://github.com/yimgym/yimgym.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
